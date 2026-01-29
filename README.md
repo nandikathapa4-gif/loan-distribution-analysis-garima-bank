@@ -44,3 +44,22 @@ The analysis uses Python-based data processing to derive insights into banking e
 * **Python Libraries:** `pandas` (data manipulation), `matplotlib`/`seaborn` (visualization), `re` (regex filtering).
 * **Environment:** Google Colab (Python 3).
 * **Skills Demonstrated:** Data wrangling, statistical analysis, economic interpretation, visualization.
+
+## Sample Outputs
+
+### Loan Portfolio Composition
+This chart shows how different loan sectors (Term Loans, Overdrafts, etc.) have evolved over the studied period.
+![Portfolio Composition](portfolio_composition.png)
+
+
+
+### Margin Lending Volatility
+The graph below highlights the extreme fluctuations in Margin Lending, demonstrating the 337% surge followed by market correction.
+![Margin Lending Growth](margin_lending_growth.png)
+
+
+
+### Portfolio Volatility Summary
+* **Standard Deviation:** NPR 146,763,396.57
+* **Mean Loan Amount:** NPR 199,498,302.94
+* **Coefficient of Variation (CV):** 0.7357 (High Volatility)
